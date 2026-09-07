@@ -1,0 +1,15 @@
+{
+  "title": "Season Ranking",
+  "accent": "#b33b34",
+  "background": "#f7f8f8",
+  "panel": "#ffffff",
+  "text": "#263b52",
+  "muted": "#657587",
+  "divider": "#dbe1e5",
+  "font_family": "Montserrat",
+  "display_font": "Oswald",
+  "font_url": "https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700;800&family=Oswald:wght@500;600;700&display=swap",
+  "logo_path": "assets/logo-lpc-color.png",
+  "show_decks": true,
+  "max_rows": 16
+}
